@@ -49,7 +49,7 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Flatbozu">
   <meta property="og:description" content="やりたいことを、やりたいときに、やりたいように、やる。">
-  <meta property="og:image" content="https://flatbozu.com/準備中/">
+  <meta property="og:image" content="https://flatbozu.com/assets/img/og.png">
   <meta property="og:site_name" content="Flatbozu">
   <meta property="og:locale" content="ja">
   <title>Flatbozu</title>

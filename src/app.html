@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    %sveltekit.head%
+
+    <link rel="shortcut icon" href="/favicon.ico">
+    <style>
+      :root {
+        --color-main: #333132;
+      }
+
+      *, *::before, *::after {
+        box-sizing: border-box;
+      }
+
+      html, body, h1, h2, h3, h4, p, ul {
+        margin: 0;
+        padding: 0;
+      }
+
+      html {
+        font-size: 62.5%;
+        overflow-y: scroll;
+      }
+
+      body {
+        font-size: 1.6rem;
+        font-family: 'Hiragino Kaku Gothic ProN';
+        color: var(--color-main);
+        background-color: var(--color-main);
+      }
+
+      ul {
+        list-style-type: none;
+      }
+
+      img {
+        width: 100%;
+        height: auto;
+      }
+    </style>
+  </head>
+
+  <body data-sveltekit-preload-data="hover">
+    %sveltekit.body%
+  </body>
+</html>

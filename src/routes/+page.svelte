@@ -149,6 +149,7 @@
     min-height: 100svh;
     padding: 80px 0;
     overflow: hidden;
+    will-change: transform;
 
     &[data-color-theme="positive"] {
       color: var(--color-main);

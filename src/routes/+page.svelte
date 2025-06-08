@@ -109,7 +109,7 @@
     justify-content: center;
     align-items: center;
     gap: 24px;
-    height: 100lvh;
+    height: 100svh;
     padding-left: 24px;
     padding-right: 24px;
     background-color: #fff;
@@ -142,7 +142,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 100lvh;
+    min-height: 100svh;
     padding: 80px 0;
     overflow: hidden;
 

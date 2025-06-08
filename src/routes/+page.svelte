@@ -143,7 +143,10 @@
 
   .section {
     position: relative;
-    min-height: 100dvh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100svh;
     padding: 80px 0;
     overflow: hidden;
 

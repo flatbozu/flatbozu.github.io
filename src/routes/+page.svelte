@@ -109,7 +109,7 @@
     justify-content: center;
     align-items: center;
     gap: 24px;
-    height: 100dvh;
+    height: 100lvh;
     padding-left: 24px;
     padding-right: 24px;
     background-color: #fff;
@@ -142,10 +142,9 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 100svh;
+    min-height: 100lvh;
     padding: 80px 0;
     overflow: hidden;
-    will-change: transform;
 
     &[data-color-theme="positive"] {
       color: var(--color-main);

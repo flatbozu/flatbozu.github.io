@@ -95,10 +95,6 @@
         <p>
           まだ何も無いです。
         </p>
-
-        <figure>
-          <img src="/assets/img/wip.webp" alt="">
-        </figure>
       </div>
     </section>
   </main>
